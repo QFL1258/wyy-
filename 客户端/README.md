@@ -1,4 +1,4 @@
-# xz_vue
+# vue
 
 ## Project setup
 ```
