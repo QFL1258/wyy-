@@ -28,14 +28,14 @@ app.use(cors({
 //功能1，轮播图
 app.get("/imagelist",(req,res)=>{ 
   var obj=[
-    {id:1,img_url:"http://127.0.0.1:3000/img/1.jpg"},
-    {id:2,img_url:"http://127.0.0.1:3000/img/2.jpg"},
-    {id:3,img_url:"http://127.0.0.1:3000/img/3.jpg"},
-    {id:4,img_url:"http://127.0.0.1:3000/img/4.jpg"},
-    {id:5,img_url:"http://127.0.0.1:3000/img/5.jpg"},
-    {id:6,img_url:"http://127.0.0.1:3000/img/6.jpg"},
-    {id:7,img_url:"http://127.0.0.1:3000/img/7.jpg"},
-    {id:8,img_url:"http://127.0.0.1:3000/img/8.jpg"},
+    {id:1,img_url:"http://wyyapi.applinzi.com/img/1.jpg"},
+    {id:2,img_url:"http://wyyapi.applinzi.com/img/2.jpg"},
+    {id:3,img_url:"http://wyyapi.applinzi.com/img/3.jpg"},
+    {id:4,img_url:"http://wyyapi.applinzi.com/img/4.jpg"},
+    {id:5,img_url:"http://wyyapi.applinzi.com/img/5.jpg"},
+    {id:6,img_url:"http://wyyapi.applinzi.com/img/6.jpg"},
+    {id:7,img_url:"http://wyyapi.applinzi.com/img/7.jpg"},
+    {id:8,img_url:"http://wyyapi.applinzi.com/img/8.jpg"},
   ];
   res.send(obj);
 })
