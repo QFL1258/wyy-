@@ -1024,15 +1024,18 @@
         },
         methods:{
             getImages(){
-                this.$http.get("imagelist").then(result=>{
-                    // console.log(result.body);
-                    this.list=result.body;
+                // var url=this.$store.state.globalSettings.apiUrl+'/imagelist';
+                 var url="http://wyyapi.applinzi.com/imagelist"
+                this.$axios.get(url).then(result=>{
+                // this.$http.get("http://wyyapi.applinzi.com/imagelist").then(result=>{
+                   console.log(result);
+                    this.list=result.data;
                 })
             },
             recom(){
-                var url="http://wyyapi.applinzi.com/recom";
-                this.axios.get(url).then(result=>{
-                    console.log(result)
+                var url=this.$store.state.globalSettings.apiUrl+"/recom";
+                this.$axios.get(url).then(result=>{
+                    // console.log(result)
                     this.rec=result.data;
                 })
             },

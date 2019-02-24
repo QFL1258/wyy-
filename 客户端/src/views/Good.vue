@@ -175,8 +175,8 @@ import $ from 'jquery'
         //true 有数据 false 无数据
          var hasMore=this.pno <=this.pageCount;
          if(!hasMore){return}
-        var url="http://wyyapi.applinzi.com/product?pno="+this.pno+"&pageSize="+this.pageSize;
-        this.axios.get(url).then(result=>{
+        var url=this.$store.state.globalSettings.apiUrl+"/product?pno="+this.pno+"&pageSize="+this.pageSize;
+        this.$axios.get(url).then(result=>{
            console.log(result.data)
           this.list=result.data.data;
           this.pageCount=result.data.pageCount;//保留当前总页数

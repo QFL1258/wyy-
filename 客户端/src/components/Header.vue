@@ -330,7 +330,7 @@
           var pwd=this.verify_w()    
           var url="http://wyyapi.applinzi.com/register";
           var param=`phone=${p}&pwd=${w}`
-          this.axios.post(url,param).then(result=>{
+          this.$axios.post(url,param).then(result=>{
           console.log(result)
           if(result.data.code==1&&phone==true&&pwd==true){
             alert("注册成功")
@@ -384,7 +384,7 @@
           return 
         }
         var url = "http://wyyapi.applinzi.com/login?phone="+p+"&pwd="+w;
-        this.axios.get(url).then(result=>{
+        this.$axios.get(url).then(result=>{
           console.log(result);
           if(result.data.code==1){
             alert('登录成功')
