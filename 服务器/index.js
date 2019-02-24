@@ -7,8 +7,11 @@ const cors=require("cors");
 //加载 加载第三方模块 express-sessionStorage
 const session=require("express-session");
 var app = express();
+const PORT =  5050; 
 // var server = app.listen(3000);
-var server = app.listen(5050);
+app.listen(PORT, ()=>{
+  console.log('Server Listening: '+PORT);
+});
 //__dirname 当前程序所属目录绝对路径
 app.use(express.static(__dirname+"/public"))
 //使用body-parser中间件
