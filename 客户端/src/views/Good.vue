@@ -175,7 +175,7 @@ import $ from 'jquery'
         //true 有数据 false 无数据
          var hasMore=this.pno <=this.pageCount;
          if(!hasMore){return}
-        var url="http://127.0.0.1:3000/product?pno="+this.pno+"&pageSize="+this.pageSize;
+        var url="http://wyyapi.applinzi.com/product?pno="+this.pno+"&pageSize="+this.pageSize;
         this.axios.get(url).then(result=>{
            console.log(result.data)
           this.list=result.data.data;

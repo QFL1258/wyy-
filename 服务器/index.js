@@ -29,7 +29,19 @@ app.use(cors({
   credentials:true //要求客户端必须携带cookie
 }))
 //功能1，轮播图
-
+app.get("/imagelist",(req,res)=>{ 
+  var obj=[
+    {id:1,img_url:"http://wyyapi.applinzi.com/img/1.jpg"},
+    {id:2,img_url:"http://wyyapi.applinzi.com/img/2.jpg"},
+    {id:3,img_url:"http://wyyapi.applinzi.com/img/3.jpg"},
+    {id:4,img_url:"http://wyyapi.applinzi.com/img/4.jpg"},
+    {id:5,img_url:"http://wyyapi.applinzi.com/img/5.jpg"},
+    {id:6,img_url:"http://wyyapi.applinzi.com/img/6.jpg"},
+    {id:7,img_url:"http://wyyapi.applinzi.com/img/7.jpg"},
+    {id:8,img_url:"http://wyyapi.applinzi.com/img/8.jpg"},
+  ];
+  res.send(obj);
+})
 //功能2：登录功能
 app.get('/login',(req,res)=>{
   var phone=req.query.phone;

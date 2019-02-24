@@ -23,7 +23,7 @@ Vue.use(VueResource);
 
 //6:配置Vue-resource常见属性
 //6.1:设置请求的服务器根目录
-Vue.http.options.root = "http://127.0.0.1:3000/";
+Vue.http.options.root = "http://wyyapi.applinzi.com/";
 //6.2:全局设置post 时候表单的数据组织格式为 application/x-www-form-urlencoded
 //将提交数据进行转码操作
 Vue.http.options.emulateJSON = true;

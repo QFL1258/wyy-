@@ -328,7 +328,7 @@
           var w =this.w;
           var phone=this.verify_p();
           var pwd=this.verify_w()    
-          var url="http://127.0.0.1:3000/register";
+          var url="http://wyyapi.applinzi.com/register";
           var param=`phone=${p}&pwd=${w}`
           this.axios.post(url,param).then(result=>{
           console.log(result)
@@ -383,7 +383,7 @@
           alert('密码不能为空')
           return 
         }
-        var url = "http://127.0.0.1:3000/login?phone="+p+"&pwd="+w;
+        var url = "http://wyyapi.applinzi.com/login?phone="+p+"&pwd="+w;
         this.axios.get(url).then(result=>{
           console.log(result);
           if(result.data.code==1){

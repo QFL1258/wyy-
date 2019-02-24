@@ -1030,7 +1030,7 @@
                 })
             },
             recom(){
-                var url="http://127.0.0.1:3000/recom";
+                var url="http://wyyapi.applinzi.com/recom";
                 this.axios.get(url).then(result=>{
                     console.log(result)
                     this.rec=result.data;
