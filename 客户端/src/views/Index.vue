@@ -385,7 +385,7 @@
                     <ul>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -396,7 +396,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -407,7 +407,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -418,7 +418,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -429,7 +429,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -440,7 +440,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -451,7 +451,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -462,7 +462,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -473,7 +473,7 @@
                     </li>
                     <li class="pix">
                         <div class="cover_con">
-                        <img src="img/新歌首发图片/1.jpg" alt="">
+                        <img src="img/new/1.jpg" alt="">
                         <div class="play_btn"></div>
                         </div>
                         <div class="pix_info">
@@ -513,7 +513,7 @@
                 <ul class="wrapper">
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/1.jpg" alt="">
+                    <img src="img/gedan/1.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                     歌单介绍歌单介绍歌单介绍
@@ -524,7 +524,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/2.jpg" alt="">
+                    <img src="img/gedan/2.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -535,7 +535,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/3.jpg" alt="">
+                    <img src="img/gedan/3.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -546,7 +546,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/4.jpg" alt="">
+                    <img src="img/gedan/4.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -557,7 +557,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/5.jpg" alt="">
+                    <img src="img/gedan/5.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -568,7 +568,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/5.jpg" alt="">
+                    <img src="img/gedan/5.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -579,7 +579,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/4.jpg" alt="">
+                    <img src="img/gedan/4.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -590,7 +590,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/3.jpg" alt="">
+                    <img src="img/gedan/3.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -601,7 +601,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/2.jpg" alt="">
+                    <img src="img/gedan/2.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -612,7 +612,7 @@
                 </li>
                 <li>
                     <div class="play_btn"></div>
-                    <img src="img/歌单推荐图片/1.jpg" alt="">
+                    <img src="img/gedan/1.jpg" alt="">
                     <div class="text_container">
                     <p class="pl_intro">
                         歌单介绍歌单介绍歌单介绍
@@ -1145,7 +1145,7 @@
   left: 28%;
   width: 100px;
   height: 100px;
-  background-image: url(../../public/img/歌单推荐图片/iconall.png);
+  background-image: url(../../public/img/gedan/iconall.png);
   background-position: -8px -394px;
   z-index: 1;
   transform: scale(0);
@@ -1256,7 +1256,7 @@
   left: 1%;
   width: 100px;
   height: 100px;
-  background-image: url(../../public/img/新歌首发图片/iconall.png);
+  background-image: url(../../public/img/gedan/iconall.png);
   background-position: -8px -394px;
   z-index: 1;
   transform: scale(0);
@@ -1341,7 +1341,7 @@
 }
 
 .toplist>.lists>.toplist_item>.ban>.item_left>.vicon_play{
-  background-image: url(../../public/img/排行榜图片/cover_play.png);
+  background-image: url(../../public/img/paihang/cover_play.png);
   background-size: 72%;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -1365,7 +1365,7 @@
   cursor: pointer;
 }
 .toplist>.lists>.toplist_item>.ban>.item_left{
-  background: url(../../public/img/排行榜图片/1.jpg) no-repeat;
+  background: url(../../public/img/paihang/1.jpg) no-repeat;
   transform-origin: 50% 50% -110px;
   width: 100%;
   height: 500px;

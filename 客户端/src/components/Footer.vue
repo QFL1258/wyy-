@@ -186,7 +186,7 @@
             <a class="nxt" href="javascript::">下一首</a>
           </div>
           <div class="head">
-            <img src="../../public/img/播放/default_album.jpg" alt="">
+            <img src="../../public/img/play/default_album.jpg" alt="">
             <a class="mask" href="javascript:;"></a>
           </div>
           <div class="play">
@@ -414,7 +414,7 @@ footer .copyright > * {
   width: 18px;
   height: 18px;
   margin: 6px 0 0 17px;
-  background: url(../../public/img/播放/playbar.png) no-repeat;
+  background: url(../../public/img/play/playbar.png) no-repeat;
   
 }
 .m-playbar .updn .btn1{
@@ -438,13 +438,13 @@ footer .copyright > * {
   right: 15px;
   width: 52px;
   height: 67px;
-  background: url(../../public/img/播放/playbar.png) no-repeat;
+  background: url(../../public/img/play/playbar.png) no-repeat;
   background-position: 0 -380px;
 }
 .playbar .m-playbar .bg{
   height: 95px;
   margin-right: 0px;
-  background-image:url(../../public/img/播放/playbar.png);
+  background-image:url(../../public/img/play/playbar.png);
   background-position:0 0;
   background-repeat: repeat-x;
 }
@@ -478,7 +478,7 @@ footer .copyright > * {
   margin-right: 8px;
   margin-top: 5px;
   text-indent: -9999px;
-  background: url(../../public/img/播放/playbar.png) no-repeat;
+  background: url(../../public/img/play/playbar.png) no-repeat;
 }
 .playbar .m-playbar .wrap .btns .prv{
   background-position: 0 -130px;
@@ -531,7 +531,7 @@ footer .copyright > * {
 }
 .m-pbar .barbg, .m-pbar .cur, .m-pbar .rdy {
   height: 9px;
-  background: url(../../public/img/播放/statbar.png) no-repeat;
+  background: url(../../public/img/play/statbar.png) no-repeat;
   background-position: right 0;
 }
 .m-pbar .barbg{
@@ -555,7 +555,7 @@ footer .copyright > * {
   width: 22px;
   height: 24px;
   margin-left: -11px;
-  background: url(../../public/img/播放/iconall.png) no-repeat;
+  background: url(../../public/img/play/iconall.png) no-repeat;
   background-position: 0 -250px;
 }
 .m-pbar .time {
@@ -575,7 +575,7 @@ footer .copyright > * {
   height: 25px;
   margin: 11px 2px 0 0;
   text-indent: -9999px;
-  background: url(../../public/img/播放/playbar.png) no-repeat;
+  background: url(../../public/img/play/playbar.png) no-repeat;
 }
 .m-playbar .icn-add {
   background-position: -88px -163px;
@@ -589,7 +589,7 @@ footer .copyright > * {
   width: 113px;
   padding-left: 13px;
   float: left;
-  background: url(../../public/img/播放/playbar.png) no-repeat;
+  background: url(../../public/img/play/playbar.png) no-repeat;
   background-position: -147px -238px;
 }
 .m-playbar .icn {

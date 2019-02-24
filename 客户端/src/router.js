@@ -4,7 +4,7 @@ import Home from './views/Home.vue'
 import Index from './views/Index.vue'
 import Product from './views/Product.vue'
 import Good from './views/Good.vue'
-import Music from './views/Music.vue'
+
 
 Vue.use(Router)
 
@@ -18,7 +18,7 @@ export default new Router({
     {path:'/Product',component:Product,children:[
       {path:'',component:Good},
     ]},
-    {path:'/Music',component:Music}
+
 
   ]
 })
